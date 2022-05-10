@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvue_mix"]=self["webpackChunkvue_mix"]||[]).push([[443],{8945:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var u=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"container"},[t("p",[e._v("Version Notes")])])}],s=t(1001),l={},c=(0,s.Z)(l,u,r,!1,null,null,null),i=c.exports}}]);
-//# sourceMappingURL=about-legacy.2d9a9f88.js.map
